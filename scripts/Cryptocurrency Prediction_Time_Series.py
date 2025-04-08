@@ -655,6 +655,7 @@ def main():
 # Run the main FUNCTION                                                  
 if __name__ == "__main__":
     df, model_comparison = main()
+Move Python script to /scripts folder
 
 
     
