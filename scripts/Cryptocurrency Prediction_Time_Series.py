@@ -655,9 +655,10 @@ def main():
 # Run the main FUNCTION                                                  
 if __name__ == "__main__":
     df, model_comparison = main()
-Move Python script to /scripts folder
 
 
+#%% 12. SAVE CLEANED DATASET
+df.to_csv('xrp_usdt_cleaned.csv', index=True)
     
     
 
