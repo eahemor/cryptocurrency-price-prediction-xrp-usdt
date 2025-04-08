@@ -35,10 +35,29 @@ This project applies **Time Series Analysis** techniques to predict the price of
 ![daily_return](https://github.com/user-attachments/assets/7840d68f-5e4f-43c8-a7e1-c8e2f731d533)
 ![arima_forecast](https://github.com/user-attachments/assets/626941fc-d35c-461f-b762-8e5bab115c09)
 
-
 ## 💡 Business Insight
 This project helps demonstrate how predictive models can assist traders, analysts, and financial planners in making data-driven decisions in volatile crypto markets.
 
 ## 🧑‍💻 Author
 **[Ebenezer Ahemor]**  
-[LinkedIn: @Ebenezer Ahemor ] | [Email: eahemor@gmail.com]
+[LinkedIn Profile: https://www.linkedin.com/in/ebenezer-ahemor-93348832a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app] | [Email: eahemor@gmail.com]
+
+## 🔁 Project Pipeline
+
+1. **Data Cleaning** – Loaded historical XRP/USDT data and removed nulls
+2. **Feature Engineering** – Converted date columns and sorted time series
+3. **ARIMA Modeling** – Fit ARIMA model and generated 30-day forecast
+4. **LSTM Modeling** – Built and trained a deep learning LSTM model
+5. **Ensemble Forecast** – Averaged ARIMA + LSTM for improved accuracy
+6. **Model Comparison** – RMSE metrics and visual forecast comparison
+
+## 📁 Repository Structure
+
+- `/data` – Cleaned and original datasets
+- `/scripts` – Full Python modeling script
+- `/visuals` – Output charts (e.g., forecast comparison)
+- `requirements.txt` – Python packages
+- `README.md` – Project overview
+
+- Update README with pipeline and project structure
+
