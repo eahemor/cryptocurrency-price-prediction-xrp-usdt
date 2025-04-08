@@ -36,7 +36,6 @@ This project applies **Time Series Analysis** techniques to predict the price of
 ![arima_forecast](https://github.com/user-attachments/assets/626941fc-d35c-461f-b762-8e5bab115c09)
 
 
-
 ## 💡 Business Insight
 This project helps demonstrate how predictive models can assist traders, analysts, and financial planners in making data-driven decisions in volatile crypto markets.
 
